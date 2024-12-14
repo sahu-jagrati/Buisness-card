@@ -1,0 +1,23 @@
+body{
+    margin: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.image{
+    width: 150px;
+}
+.card{
+    width: 400px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 0 auto;    /* top/bottom and right/left */
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: black;
+    background:rgb(140, 199, 199) ;
+    border-bottom: 5px solid rgb(250, 153, 250);
+}
+.italic{
+    font-style: italic;
+}
